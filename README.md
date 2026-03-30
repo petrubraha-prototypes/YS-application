@@ -1,4 +1,4 @@
-# Yoda-Syntax
+# Yoda Syntax Application
 
 java project
 input: large text
